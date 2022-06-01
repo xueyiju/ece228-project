@@ -1,11 +1,11 @@
-# Guinea Pig Breed Classification
-## Identify cavy breed using images through machine learning
+# ECE228 Final Project
 
-If you just want to explore quickly through this project, you can by doing the following on Google Colab:
-* Make a new folder called 'cavy_breed_clf' under 'Colab Notebooks' folder in your Google Drive
-* Copy the following folders and file into 'cavy_breed_clf'
-  * /data
-  * /images
-  * /lib
-  * cavy_breed_clf_train_and_predict_abridged.ipynb
-* Launch 'cavy_breed_clf_train_and_predict_abridged.ipynb' from Google Colab
+## Guinea Pig Breed Classification
+
+---
+
+* Project related code is in the folder ```project_code```
+* Input images are in the folder ```images```
+* ```data``` contains ```.csv``` files of images and labels
+* The original dataset is collected by Yengloon, Fan. The link to the original dataset is ```https://github.com/ringoshin/cavy_breed_clf```
+
