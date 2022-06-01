@@ -1,0 +1,9 @@
+.git/
+.ipynb_checkpoints/
+.vscode/
+models/
+sandbox/
+results/
+venv/
+.venv/
+**/.DS_Store
